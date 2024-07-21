@@ -111,3 +111,11 @@ def predict(data):
     result = "Prediction result based on input data"
     return result
 ```
+
+## References
+
+### Database
+
+- [How to run an embedded vector database in 10 lines of code](https://weaviate.io/blog/embedded-local-weaviate/)
+- [Embedded Weaviate](https://weaviate.io/developers/weaviate/installation/embedded)
+- [Weaviate Quickstart Tutorial](https://weaviate.io/developers/weaviate/quickstart)
